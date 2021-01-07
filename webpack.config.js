@@ -15,8 +15,8 @@ module.exports = {
       }
     ]
   },
-   output: { // IMPORTANT: This is where we set the bundle to be built into a folder
-    filename: 'bundle.js', // The name of the file to build
-    path: __dirname + '/public' // Where Webpack should place the file
+   output: {
+    filename: 'bundle.js', 
+    path: __dirname + '/public' 
   }
 };

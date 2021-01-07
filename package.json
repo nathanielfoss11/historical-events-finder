@@ -23,7 +23,8 @@
     "express": "^4.17.1",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-paginate": "^7.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",

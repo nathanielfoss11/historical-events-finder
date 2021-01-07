@@ -1,3 +1,42 @@
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  margin-top: 15px;
+}
+
+#header {
+  margin-top: 30px;
+  border-bottom: 2px solid black;
+}
+
+#searchTitle {
+  margin-top: 11px;
+  font-size: 20px;
+  padding-right: 15px;
+}
+
+#search {
+  margin-top: 11px;
+  font-size: 15px;
+  height: 30px;
+}
+
+#heading {
+  font-size: 20px;
+}
+
+#tableHeader {
+  border-bottom: 1px solid black;
+  height: 30px;
+  margin-bottom: 15px;
+}
+
+#resultRecord {
+  margin-bottom: 10px;
+}
+
 #react-paginate ul {
   display: inline-block;
   padding-left: 15px;
